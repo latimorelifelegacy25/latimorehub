@@ -1,0 +1,7 @@
+{
+  "name": "Latimore Legacy Social Hub",
+  "description": "A comprehensive social media management and engagement tracking platform for Latimore Life & Legacy LLC, featuring AI-powered content generation and performance analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
